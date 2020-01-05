@@ -1,10 +1,10 @@
-# Naturalization Ceremonies
+# Naturalization Ceremonies Map
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ![Preview](preview.jpg)
 
-## Live links (replace with your own)
-- Leaflet Map https://mroswell.github.io/naturalization-ceremonies/index.html
+## Live links
+- Leaflet Map https://mroswell.github.io/naturalization-ceremonies-map/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1JJ2J9xbXOUQQllLnJ7Cx4wS6rdawSviOxtS2GB9yZ3Q/edit#gid=0
 
 ## Create your own
